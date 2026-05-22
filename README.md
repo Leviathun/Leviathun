@@ -1,9 +1,47 @@
-# 💫 About Me:
-👋 Hi, I’m @Leviathun<br>👀 I’m interested in dev some site ,game ,moblie<br>🌱 I’m currently learning java, Js, Vue, vite.<br>💞️ I’m looking to collaborate on anyone<br>📫 How to reach me [secreat for now]<br>😄 Pronouns: He/Him<br>⚡ Fun fact: [sometime i forgot how to dev-ops ]
+# Hi there, I'm Tanabadee (Leviathun) 👋
+### 🚀 Software Engineering Graduate | Developer & Automation QA
 
+A fresh Software Engineering graduate based in Chiang Mai, Thailand. I am deeply passionate about building scalable full-stack applications, designing robust automation testing workflows, and exploring modern AI-driven development tools. Constantly learning and evolving to deliver high-quality software solutions.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+---
+
+## 💫 About Me
+
+* 🎓 **Background:** Software Engineering Graduate, based in Chiang Mai, Thailand.
+* 🚀 **Core Focus:** Building Full-stack web applications and implementing Automated Testing.
+* 🤖 **Interests:** Exploring AI tools and integration in software development.
+
+---
+
+## 🛠 Languages and Tools
+
+| Skill | List |
+| :--- | :--- |
+| **Language** |  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Frontend** |  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4C100?style=flat-square&logo=html5&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)  |
+| **Testing / QA**| ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) *(Manual & Automation Testing)* |
+| **Database** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)  |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
+
+---
+
+## 📁 Featured Project
+
+### 📚 [Calamity-book-Project](https://github.com/Leviathun/Calamity-book-Project)
+A comprehensive, **Full-stack Online Bookstore** built to handle e-commerce operations seamlessly from both user and admin perspectives.
+
+* **Key Features:**
+  * 🛒 Shopping Cart & Wishlist integration.
+  * 📦 Complete Order Management system.
+  * ⏱️ Time-limited promotional campaign system.
+  * 🔒 Secured Admin Dashboard for store analytics and inventory control.
+* **Tech Stack:** Node.js, Express, MySQL, EJS
+* **Deployment:** Hosted on **Render** (Web Service) with database managed on **Clever Cloud**.
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Leviathun&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leviathun&theme=gruvbox_light&hide_border=false)<br/>
@@ -12,13 +50,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Leviathun&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Leviathun&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Leviathun&icon=5&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
